@@ -1,4 +1,4 @@
-# Net-smash by Zeeshan Khalid 🚀
+# Net-smash 🚀
 
 Welcome to **Net-smash**, a script designed to perform deauthentication attacks on WiFi networks. This tool is created by Zeeshan Khalid and intended for network security testing.
 
