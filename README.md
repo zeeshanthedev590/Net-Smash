@@ -1,6 +1,6 @@
 # Net-smash 🚀
 
-Welcome to **Net-smash**, a script designed to perform deauthentication attacks on WiFi networks. This tool is created by Zeeshan Khalid and intended for network security testing.
+Welcome to **Net-smash**, a script designed to perform deauthentication attacks on WiFi networks.
 
 ## 📜 Features
 
@@ -23,5 +23,5 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YourUsername/wifi-jammer.git
-   cd wifi-jammer
+   git clone https://github.com/zeeshanthedev590/Net-Smash.git
+   cd Net-smash
